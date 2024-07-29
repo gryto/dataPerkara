@@ -1,0 +1,19 @@
+flutter/ephemeral
+# Flutter
+build/
+.ios/
+.android/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache
+.pub
+**/test-coverage
+**/coverage
+**/coverage.lcov
+**/*.iml
+**/*.ipr
+**/*.iws
+*.lock
+*.log
+.idea/
